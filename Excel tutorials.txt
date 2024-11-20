@@ -1,0 +1,6 @@
+/my-website
+├── index.html  (Homepage)
+├── styles.css  (CSS file)
+├── script.js   (JavaScript file)
+├── /images     (Store images here)
+├── /downloads  (For Excel templates)
